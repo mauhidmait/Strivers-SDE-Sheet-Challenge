@@ -1,3 +1,3 @@
 # Strivers-SDE-Sheet-Challenge
 #LINK
-https://bit.ly/3qtnNhS
+https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge/register
